@@ -69,3 +69,4 @@ print(pt1.calculate_salary())
 # --------------------------------------------------------
 
 print("Salom")
+print("Hayr")
